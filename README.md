@@ -1,7 +1,7 @@
 # 👋 About Me
 
 I'm a **Certified Software Engineer** & **Computer Scientist** with over **16 years of experience** spanning software development, cybersecurity research, IT operations, and technical communication.  
-I have co-founded and consulted for technology ventures, built scalable systems, and led documentation, training, and digital transformation projects across diverse industries.
+I have co-founded and consulted for technology ventures, built scalable systems, and led documentation efforts, training, and digital transformation projects across diverse industries.
 
 My current focus is **AI-driven innovation for practical impact** — notably through an **AI-based Soil Analysis Platform** designed to help Kenyan farmers make informed crop and soil decisions. The project integrates data science, geospatial APIs, and machine learning to advance climate-smart agriculture.
 
