@@ -9,12 +9,12 @@ My current focus is **AI-driven innovation for practical impact** — notably th
 
 ## 🧠 Technical Range
 
-- **Software Development:** Python, React, FastAPI, PostgreSQL, Docker, GitHub Actions  
-- **AI & Data:** Machine Learning, Model Training, Predictive Analytics, Data Visualization  
-- **Cybersecurity:** Vulnerability Assessment, Secure Architecture, Ethical Research  
-- **Cloud & Infrastructure:** AWS, GCP, CI/CD Pipelines, Containerization  
-- **Documentation & Strategy:** Technical Proposals, RFPs, System Documentation, Knowledge Transfer  
-- **Leadership & Collaboration:** Agile Practices, Mentorship, Cross-functional Delivery
+**Technical Range**
+- **Software Development** – Python, Flask, FastAPI, React, SQLAlchemy, PostgreSQL, MySQL, SQLite, Docker, Git, GitHub Actions  
+- **AI & Data** – Machine Learning, Data Automation, Predictive Analytics, Model Deployment (OpenAI, Hugging Face)  
+- **Cybersecurity & Infrastructure** – Secure System Design, Vulnerability Assessment, Cloud Deployment, Containerization  
+- **Documentation & Strategy** – Technical Proposals, Product Docs, System Blueprints, Knowledge Transfer  
+- **Leadership & Collaboration** – Agile Delivery, Mentorship, Cross-functional Coordination
 
 ---
 
