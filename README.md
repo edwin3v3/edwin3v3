@@ -20,11 +20,11 @@ My current focus is **AI-driven innovation for practical impact** — notably th
 
 ## 🚀 Selected Highlights
 
-- **AI Soil Analysis Platform** – Built and deployed an intelligent system for soil data analysis and crop recommendations, integrating ML and geospatial APIs.  
-- **WiseDigits Documentation Revamp** – Re-engineered technical and marketing materials; improved clarity and proposal success rate by over 30%.  
-- **SweetHubb Digital Rollout** – Co-founded a food-ordering platform; led website, social media, and ad automation initiatives that increased direct orders by 50%+.  
-- **Cybersecurity Research** – Conducted applied research on AI system vulnerabilities and adversarial testing methods.  
-- **ICT Education** – Modernized university-level ICT curriculum and mentored 200+ students through practical software projects.
+- **GreenFund AI Platform** – Co-developed an AI-powered web system for soil analysis and crop recommendations; integrated ML models, geospatial APIs, and handled testing, Git merging, and task setup on Jira.
+- **The Mission **– Collaborated on a React–FastAPI project focused on secure user management and task workflows; resolved major merge conflicts and optimized backend–frontend data handling.
+-  **WiseDigits Documentation Revamp** – Re-engineered technical and marketing documentation; improved clarity and proposal success rate by 30% through structured workflows and better client-facing materials.
+- **SweetHubb Digital Rollout** – Co-founded a food-ordering platform; led end-to-end digital launch (site, social, Google Places, WhatsApp integration), increasing direct orders by 50%+.
+- **ICT Education** – Modernized ICT curriculum, introduced applied programming modules, and mentored 200+ students in hands-on software and system projects.
 
 ---
 
