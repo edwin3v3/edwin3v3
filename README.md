@@ -30,7 +30,7 @@ My current focus is **AI-driven innovation for practical impact** — notably th
 
 ## 🎯 Current Objective
 
-To collaborate with **experienced engineering and research teams** that challenge and expand my technical and leadership capabilities — contributing to projects that combine **AI, software systems, and meaningful human impact**.
+To collaborate with **experienced engineering and business teams** that challenge and expand my technical and leadership capabilities — contributing to scaling solutions that combine **AI, software systems and other technologies** towards meaningful human impact.
 
 ---
 
